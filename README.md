@@ -1,0 +1,1 @@
+# mq-kafka-adapter-new
